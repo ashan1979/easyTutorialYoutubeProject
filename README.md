@@ -1,3 +1,3 @@
 # easyTutorialYoutubeProject
-# this project is from the youtube channel Easy Tutorials! 
+# this project is from the youtube channel "Easy Tutorials"! 
 
